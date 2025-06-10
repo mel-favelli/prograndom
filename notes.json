@@ -1,0 +1,10 @@
+{
+  "portfolio website": {
+    "category": "work",
+    "content": "**website showcasing portfolio of acrylic paintings**\ndark grey & white theme\none-page site? possibly 2\nsimple layout with images of paintings like a collage\nsizing of images will be painting dimensions to scale\nhover over the image for the real dimensions & price\nhave about me section & contact me form at bottom"
+  },
+  "freelancer website": {
+    "category": "work",
+    "content": "**website advertising freelance cyber work**\nadvertise cybersecurity and web development services\ntailored towards local businesses & people in the community\nalso offer remote services even for those outside of madison\nuse portfolio website as an example of web development/HTML skills\nuse merrick custom carpentry website as example of web development/HTML skills"
+  }
+}
